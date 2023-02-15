@@ -1,0 +1,26 @@
+{
+  "name": "filecoin-address-js",
+  "description": "Convert Filecoin address to EVM address",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koteld/filecoin-address-js.git"
+  },
+  "keywords": [
+    "filecoin"
+  ],
+  "author": "koteld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koteld/filecoin-address-js/issues"
+  },
+  "homepage": "https://github.com/koteld/filecoin-address-js#readme",
+  "dependencies": {
+    "@glif/filecoin-address": "^2.0.37"
+  }
+}
